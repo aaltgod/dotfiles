@@ -60,6 +60,15 @@ wallpaper = eDP-1,~/.config/hypr/wallpaper.jpg
 ```
 
 ---
+## Mako
+```
+yay -S mako
+```
+Add in ~/.config/hypr/hyrpland.conf
+```
+exec-once=mako
+```
+---
 ## Eww
 [source](https://github.com/elkowar/eww)
 
